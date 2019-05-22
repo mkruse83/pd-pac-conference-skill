@@ -1,0 +1,61 @@
+{
+    "version": "1.0",
+    "session": {
+        "new": true,
+        "sessionId": "amzn1.echo-api.session.f402137b-769c-4170-b2a2-b74ac279bdc0",
+        "application": {
+            "applicationId": "amzn1.ask.skill.733a5de2-5c1b-4d13-a29c-926fa615cf0c"
+        },
+        "user": {
+            "userId": "amzn1.ask.account.AHVVWKGQAP3W6CPYMJGQ2PPP5HXPV44G6MAQY25ZSIT4IJ4BW4LZX4Y73XKWCB5SRMPTNJFXP4SF2QIFYXY7F3AJSKDIW3FK5H5ZKI7QYGAAJWKKMBMDPZOTDOKPK2T5EFMH2WWDA7PS7P5PW63KQOJDDQ5Q7V5S4USRLTZEKR2KOIFILFDE34BX64XWKYMGABIR37LNDOEWNAY"
+        }
+    },
+    "context": {
+        "System": {
+            "application": {
+                "applicationId": "amzn1.ask.skill.733a5de2-5c1b-4d13-a29c-926fa615cf0c"
+            },
+            "user": {
+                "userId": "amzn1.ask.account.AHVVWKGQAP3W6CPYMJGQ2PPP5HXPV44G6MAQY25ZSIT4IJ4BW4LZX4Y73XKWCB5SRMPTNJFXP4SF2QIFYXY7F3AJSKDIW3FK5H5ZKI7QYGAAJWKKMBMDPZOTDOKPK2T5EFMH2WWDA7PS7P5PW63KQOJDDQ5Q7V5S4USRLTZEKR2KOIFILFDE34BX64XWKYMGABIR37LNDOEWNAY"
+            },
+            "device": {
+                "deviceId": "amzn1.ask.device.AEW3BFPY67UOIBLBDITNW26TN575OYED6HHFH5N5YS3QZ24VEAZ4HP4T4TZC4FWLQMKITDV7W34HVFZOFX6JEOKZ4L4LQF5B5MB2EAZD3IAXKPTWEAKSKKC6TJN7JAPFY5FWUWZS6UQQJVIHJ3PCFE4WNIFQ",
+                "supportedInterfaces": {}
+            },
+            "apiEndpoint": "https://api.eu.amazonalexa.com",
+            "apiAccessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjEifQ.eyJhdWQiOiJodHRwczovL2FwaS5hbWF6b25hbGV4YS5jb20iLCJpc3MiOiJBbGV4YVNraWxsS2l0Iiwic3ViIjoiYW16bjEuYXNrLnNraWxsLjczM2E1ZGUyLTVjMWItNGQxMy1hMjljLTkyNmZhNjE1Y2YwYyIsImV4cCI6MTU1ODU0OTE5MywiaWF0IjoxNTU4NTQ4ODkzLCJuYmYiOjE1NTg1NDg4OTMsInByaXZhdGVDbGFpbXMiOnsiY29udGV4dCI6IkFBQUFBQUFBQVFBQlVKWG5sclg1cklqZkZaL2VYMWRoSWdFQUFBQUFBQUFCSnQwZGx2RUtOWGdJbnhJeEZ6ZlpEWVNUY29lODlUVW9MSzMyK3R5MTJSOWMxRk9lclNvTDBmbFVnTWpRczVDa25ySEorWnBhVmJhaGNMdW5pMXFVanhhcEVVMTcvMnFOdFNjUmJPL0dOcGNFbU1SaDBrdmxxTmhIMnh2UGdVMVRsZis1YzdHZW10TWR5ZmNQajJ1TC9BVEZkMHpYNWJRaTl6TnBZcDBNR1BDSS9FOUVuZFRuUHczd2xBc0V5SnJMcS9ZTDZMVmNvQzRlTjlUSncyalNjRVEwalUyREhYUytZbTB1eVV2NGhIRUMwV0ZmMnpJSWZ6VGpNNjlzaVdBRUZvdThBM2xTY2FQemk5UTJBT29wL0hibGtvNGFib2ozRm5BMzNVWnF4bTc3cXhnY2tSeEttd09VNzJUb0xaZGRmbzdIUmZPQTlEZUxNdUFDL2ZmSUpOV3VZMUQ5M00vWFozdmNLUEM2bEFCSDRDS3lVZGR3UEkzcFM5TkxWMFhva1E9PSIsImNvbnNlbnRUb2tlbiI6bnVsbCwiZGV2aWNlSWQiOiJhbXpuMS5hc2suZGV2aWNlLkFFVzNCRlBZNjdVT0lCTEJESVROVzI2VE41NzVPWUVENkhIRkg1TjVZUzNRWjI0VkVBWjRIUDRUNFRaQzRGV0xRTUtJVERWN1czNEhWRlpPRlg2SkVPS1o0TDRMUUY1QjVNQjJFQVpEM0lBWEtQVFdFQUtTS0tDNlRKTjdKQVBGWTVGV1VXWlM2VVFRSlZJSEozUENGRTRXTklGUSIsInVzZXJJZCI6ImFtem4xLmFzay5hY2NvdW50LkFIVlZXS0dRQVAzVzZDUFlNSkdRMlBQUDVIWFBWNDRHNk1BUVkyNVpTSVQ0SUo0Qlc0TFpYNFk3M1hLV0NCNVNSTVBUTkpGWFA0U0YyUUlGWVhZN0YzQUpTS0RJVzNGSzVINVpLSTdRWUdBQUpXS0tNQk1EUFpPVERPS1BLMlQ1RUZNSDJXV0RBN1BTN1A1UFc2M0tRT0pERFE1UTdWNVM0VVNSTFRaRUtSMktPSUZJTEZERTM0Qlg2NFhXS1lNR0FCSVIzN0xORE9FV05BWSJ9fQ.TPIxQmbJthuh0Td90ZH-GIZ60Z4ivgGPBfl3LDJCQnfEad1q4F6PbrkrC47ysol5_m5CiJ0VjSD5TTD0DtI_rIuhTEcxImjaU8DA56QKj0BpTN_iclbWLmsS_x-Z33B5KcYc93zpAs0zH9JYtM8FlLD6wH2UQtw6T40wAXTuhTbJSKUHA_lD_0mHsunvdSQLqcN8_x7YJebHLJ920D6ZutcgJISqas43Bz7STyBtzix8ohtJkyonkFKw5eE9KqwZWPcXgX5GrXhKkg04yie6h5-fXMzXnmUdG7A4rKthnqYnvoevvz34hmRGdPTeQO39abQkjPRVkLpjy0qk22SCSg"
+        },
+        "Viewport": {
+            "experiences": [
+                {
+                    "arcMinuteWidth": 246,
+                    "arcMinuteHeight": 144,
+                    "canRotate": false,
+                    "canResize": false
+                }
+            ],
+            "shape": "RECTANGLE",
+            "pixelWidth": 1024,
+            "pixelHeight": 600,
+            "dpi": 160,
+            "currentPixelWidth": 1024,
+            "currentPixelHeight": 600,
+            "touch": [
+                "SINGLE"
+            ],
+            "video": {
+                "codecs": [
+                    "H_264_42",
+                    "H_264_41"
+                ]
+            }
+        }
+    },
+    "request": {
+        "type": "LaunchRequest",
+        "requestId": "amzn1.echo-api.request.f1617820-6bbe-4bd1-8256-ee16adc77a32",
+        "timestamp": "2019-05-22T18:14:53Z",
+        "locale": "de-DE",
+        "shouldLinkResultBeReturned": false
+    }
+}
